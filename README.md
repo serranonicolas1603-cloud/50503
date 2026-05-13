@@ -27,5 +27,5 @@ El analizador permite:
 
 1. Clonar el repositorio
 
-```bash
-git clone URL_DEL_REPOSITORIO
+```cmd 
+git clone https://github.com/serranonicolas1603-cloud/50503
